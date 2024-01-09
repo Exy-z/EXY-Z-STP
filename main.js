@@ -1252,14 +1252,14 @@ function pauseAllMedia() {
 }
 var menuIndex = 'bod' + 'y'
   , linkContent = a0_0x148031(0x449) + 'rH' + a0_0x148031(0x270);
-function removeTrapFocus(_0x457504=null) {
-    const _0x593274 = a0_0x148031;
-    document['removeEventListener'](_0x593274(0x215), trapFocusHandlers[_0x593274(0x215)]),
-    document['removeEventListener']('focusout', trapFocusHandlers[_0x593274(0x49f)]),
-    document[_0x593274(0x1e8)]('keydown', trapFocusHandlers[_0x593274(0x340)]);
-    if (_0x457504)
-        _0x457504[_0x593274(0x492)]();
-}
+// function removeTrapFocus(_0x457504=null) {
+//     const _0x593274 = a0_0x148031;
+//     document['removeEventListener'](_0x593274(0x215), trapFocusHandlers[_0x593274(0x215)]),
+//     document['removeEventListener']('focusout', trapFocusHandlers[_0x593274(0x49f)]),
+//     document[_0x593274(0x1e8)]('keydown', trapFocusHandlers[_0x593274(0x340)]);
+//     if (_0x457504)
+//         _0x457504[_0x593274(0x492)]();
+// }
 function onKeyUpEscape(_0xf84906) {
     const _0x34c365 = a0_0x148031;
     if (_0xf84906['code'][_0x34c365(0x310)]() !== _0x34c365(0x494))
